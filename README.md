@@ -28,23 +28,15 @@ Create a `stock-chart` folder. Inside the folder, create an `index.html` and a `
 
 
 On our `index.html` we need to create a basic HTML structure and link our `javascript` file.
-
-
-
-
-
+<br>
 
 
 ### Test the API return with POSTMAN
 
+Open Postman and click on the orange button **"+New"** in the left corner.  Create a **"New Collection"** called **'axios and chart.js'**.
 
 
 ![img](https://www.baeldung.com/wp-content/uploads/2019/02/postman-new-menu.png)
-
-
-
-Open Postman and click on the orange button **"+New"** in the left corner.  Create a **"New Collection"** called **'axios and chart.js'**.
-
 
 
 Add a request to this collection:
