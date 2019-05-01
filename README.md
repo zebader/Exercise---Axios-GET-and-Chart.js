@@ -39,7 +39,7 @@ On our `index.html` we need to create a basic HTML structure and link our `javas
 
 
 
-![img](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_59d53910a8a94a1096fa00a5ed2003aa.png)
+![img](https://www.baeldung.com/wp-content/uploads/2019/02/postman-new-menu.png)
 
 
 
