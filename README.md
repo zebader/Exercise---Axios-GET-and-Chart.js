@@ -6,7 +6,7 @@ Let’s keep practicing a bit! In this case, we will retrieve stock data from an
 
 
 
-### ChartJS
+## ChartJS
 
 For displaying our data, we will use a library called [ChartJS](http://www.chartjs.org/), that help us to print impressive charts we few lines of code.
 
@@ -14,7 +14,7 @@ For displaying our data, we will use a library called [ChartJS](http://www.chart
 
 
 
-### Getting Started
+## Getting Started
 
 Create a `stock-chart` folder. Inside the folder, create an `index.html` and a `script.js`.
 
@@ -31,7 +31,7 @@ On our `index.html` we need to create a basic HTML structure and link our `javas
 <br>
 
 
-### Test the API return with POSTMAN
+## Test the API return with POSTMAN
 
 Open Postman and click on the orange button **"+New"** in the left corner.  Create a **"New Collection"** called **'axios and chart.js'**.
 
@@ -48,12 +48,7 @@ Add a request to this collection:
 Click the Send button to send the request. Check the data you got back from the IEX Trading API in the response *Body* !
 
 
-
-
-
-
-
-### Get the data!
+## Get the data!
 
 To get the data from the API, we need to do a GET request using Axios, so go ahead and add the Axios CDN on the `<head>` tag of our HTML.
 
@@ -83,11 +78,7 @@ Go ahead and check on the browser what are we getting from the API! ![:wink:](ht
 
 
 
-
-
-
-
-#### Add ChartJS
+## Add ChartJS
 
 
 
@@ -155,6 +146,6 @@ As you may notice, on the `dataset` property of the chart, we can change the `ba
 
 
 
-### Advanced Mode!
+## Advanced Mode!
 
 Go ahead and add an `input` where the user can fill the ticket of any stock, and you display the data about it! You need to call the API every time the user clicks on the `Submit` button! ![:muscle:](http://materials.ironhack.com/build/emojify.js/dist/images/basic/muscle.png)
