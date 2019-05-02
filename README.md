@@ -16,15 +16,6 @@ For displaying our data, we will use a library called [ChartJS](http://www.chart
 
 ## Getting Started
 
-Create a `stock-chart` folder. Inside the folder, create an `index.html` and a `script.js`.
-
-```bash
- mkdir stock-chart
- cd stock-chart
- touch index.html
- touch script.js
-```
-
 
 
 On our `index.html` we need to create a basic HTML structure and link our `javascript` file.
